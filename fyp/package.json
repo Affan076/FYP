@@ -1,0 +1,24 @@
+{
+  "name": "fyp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.2",
+    "exec-module": "^2.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "merge-json": "0.1.0-b.3",
+    "mongoose": "^5.9.5",
+    "mssql": "^6.2.0",
+    "read-excel-file": "^4.0.6"
+  }
+}
